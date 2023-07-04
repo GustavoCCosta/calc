@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1rem;
+}
+
+body {
+    background: none;
+}
+
+.hder h1 {
+    letter-spacing: 1rem !important;
+    font-size: 5rem;
+}
